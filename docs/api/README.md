@@ -1,5 +1,6 @@
 # Struktoria API Documentation
 
+
 REST API dla systemu zarządzania dokumentami i bazą wiedzy z funkcjonalnościami AI/RAG.
 
 ## Przegląd
