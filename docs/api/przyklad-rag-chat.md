@@ -168,9 +168,6 @@ Możesz zadać kolejne pytania w tej samej sesji:
 - "Którym klientom wysłano upomnienia?"
 - "Pokaż mi trending zadłużenia w ostatnich miesiącach"
 
-## Tips dla lepszych wyników
-
-
 ## Dane testowe
 
 Dane do RAG zostały wygenerowane z plików testowych opisujących Klientów.
@@ -181,7 +178,7 @@ Przykładowy plik opisujący Klienta:
 
 <img width="1116" height="839" alt="image" src="https://github.com/user-attachments/assets/5e8a1042-8efb-4bf7-b2b2-717f16403590" />
 
-
+## Tips dla lepszych wyników
 
 1. **Używaj precyzyjnych pytań** - "należności" zamiast "pieniądze"
 2. **Ustaw niską temperature** (0.1-0.3) dla danych liczbowych
