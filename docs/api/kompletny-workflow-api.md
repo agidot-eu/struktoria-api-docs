@@ -8,7 +8,6 @@ Przed rozpoczęciem pracy z API należy się zalogować:
 
 <img width="1448" height="406" alt="image" src="https://github.com/user-attachments/assets/c9758202-5f11-456a-ac6f-6bb93791cb6b" />
 
-
 ```http
 POST /api/auth/login
 Content-Type: application/json
