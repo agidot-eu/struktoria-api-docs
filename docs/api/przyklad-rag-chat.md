@@ -30,7 +30,6 @@ Content-Type: application/json
 
 <img width="1453" height="339" alt="image" src="https://github.com/user-attachments/assets/81818fa9-fb56-4ba0-b1c0-a9bf00f3de58" />
 
-
 **UWAGA:** Musisz ustawić `pageSize > 0` (domyślnie w swagger jest 0, co powoduje błąd)
 
 ```http
