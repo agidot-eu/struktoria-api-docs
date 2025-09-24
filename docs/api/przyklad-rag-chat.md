@@ -170,6 +170,19 @@ Możesz zadać kolejne pytania w tej samej sesji:
 
 ## Tips dla lepszych wyników
 
+
+## Dane testowe
+
+Dane do RAG zostały wygenerowane z plików testowych opisujących Klientów.
+
+<img width="265" height="480" alt="image" src="https://github.com/user-attachments/assets/bec3cc88-6e92-42b6-b3be-1662261ae433" />
+
+Przykładowy plik opisujący Klienta:
+
+<img width="1116" height="839" alt="image" src="https://github.com/user-attachments/assets/5e8a1042-8efb-4bf7-b2b2-717f16403590" />
+
+
+
 1. **Używaj precyzyjnych pytań** - "należności" zamiast "pieniądze"
 2. **Ustaw niską temperature** (0.1-0.3) dla danych liczbowych
 3. **Zwiększ minSearchWeight** (0.7-0.9) dla większej precyzji
