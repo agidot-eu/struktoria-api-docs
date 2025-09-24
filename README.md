@@ -17,6 +17,7 @@ Nowoczesny interfejs użytkownika:
 - **RAG Chat** - konwersacje z AI wykorzystujące bazę wiedzy
 - **LLM Tester** - testowanie różnych modeli AI
 - **Zarządzanie bucket-ami** - organizacja zasobów
+- 
 
 ## Kluczowe funkcjonalności
 
