@@ -1,0 +1,11 @@
+# Struktoria RAG Importers — Python dependencies
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# System requirement:
+#   ODBC Driver 17 or 18 for SQL Server must be installed separately:
+#   https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server
+
+pyodbc>=5.0.1        # MSSQL connection via ODBC (db_importer.py)
+requests>=2.31.0     # HTTP client for RAG API calls (upload.py)
